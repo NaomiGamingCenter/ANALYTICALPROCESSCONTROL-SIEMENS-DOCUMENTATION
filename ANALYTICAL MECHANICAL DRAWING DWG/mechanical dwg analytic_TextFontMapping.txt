@@ -1,0 +1,3 @@
+﻿export : Arial =Arial
+export : blockfont =simplex.shx
+export : DEFAULT =simplex.shx
